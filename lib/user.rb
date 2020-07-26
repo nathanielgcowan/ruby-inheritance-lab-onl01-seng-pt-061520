@@ -1,2 +1,2 @@
 class User
-  attr
+  attr_accessor
